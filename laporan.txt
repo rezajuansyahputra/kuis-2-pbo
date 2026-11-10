@@ -1,0 +1,8 @@
+DAFTAR KUNCI (ID SAJA) - RS Sehat Selalu
+ID Pasien:
+ACT-01
+ACT-02
+Kode Layanan Medis:
+OBJ-A
+OBJ-B
+OBJ-C
